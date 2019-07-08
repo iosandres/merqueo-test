@@ -6,7 +6,7 @@ Project execution:
 
 1. Clone repository.
 2. Enter your favorite terminal
-3. cd <project>
+3. cd -project-
 4. run command npm run serve
 5. Open url that terminal shows you  
 
