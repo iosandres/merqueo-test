@@ -1,6 +1,15 @@
 # merqueo-test
 
-<<<<<<< HEAD
+<img src="https://cdn-images-1.medium.com/max/1600/1*ACR0gj0wbx91V_xgURifWg.png">
+
+Project execution:
+
+1. Clone repository.
+2. Enter your favorite terminal
+3. cd <project>
+4. run command npm run serve
+5. Open url that terminal shows you  
+
 ## Project setup
 ```
 npm install
@@ -24,20 +33,6 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-<img src="https://cdn-images-1.medium.com/max/1600/1*ACR0gj0wbx91V_xgURifWg.png">
-
-Project execution:
-
-1. Clone repository.
-2. Enter your favorite terminal
-3. cd <project>
-4. run command npm run serve
-5. Open url that terminal shows you  
  
  
 Used Libraries
