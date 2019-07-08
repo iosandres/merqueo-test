@@ -1,0 +1,17 @@
+%input{
+    height: 100%;   
+    width: 100%;
+    
+
+}
+.none-border{
+    @extend %input;
+    padding-top: 30px;
+    border-bottom: 1px solid $tertiaryColor;
+}
+.border{
+    @extend %input;
+    border: 1px solid $tertiaryColor;
+
+}
+

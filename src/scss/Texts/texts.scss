@@ -1,0 +1,15 @@
+%title{
+    color:$primaryColor;
+}
+.normal-title{
+    @extend %title;
+    font-size:18px;
+}
+.small-title{
+    @extend %title;
+    font-size: 14px;
+}
+.subtitle{
+    color: $tertiaryColor;
+    font-size: 12px;
+}

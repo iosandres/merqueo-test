@@ -1,0 +1,19 @@
+%btn{
+    border: none; 
+    color: white; 
+    padding: 8px 20px; 
+    cursor: pointer; 
+}
+.btn-radius{
+    @extend %btn;
+    border-radius: 5px;
+}
+.success{
+    @extend %btn;
+    background-color: $primaryColor;
+}
+.white{
+  @extend %btn;
+  color: $primaryColor;  
+}
+  
